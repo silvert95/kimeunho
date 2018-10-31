@@ -1,5 +1,6 @@
 # kimeunho
 Github 마크다운 정리 및 git 사용법
+
 Github 마크다운
 1.헤더(제목) 문법
 먼저 헤더에 주로 쓰이는 html에서 h1~h6과 같이 쓰이는 #갯수로 나뉘는 제목에 쓰이는 문법이 있다.
@@ -325,5 +326,3 @@ git remote prune <저장소 URL>
 원격 저장소를 제거하고 관련된 브랜치도 제거하기
 
 git remote rm <저장소 URL>
-
-#2018-09-26 AM03:42 Last Modify
