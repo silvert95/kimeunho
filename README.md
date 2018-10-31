@@ -1,4 +1,4 @@
-# kimeunho
+# 2014261066 / kimeunho
 Github 마크다운 정리 및 git 사용법
 
 Github 마크다운
