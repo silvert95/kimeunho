@@ -10,7 +10,7 @@ Github 마크다운 정리 및 git 사용법
 
 결과는
 
-# This is a H1
+```# This is a H1
 
 ## This is a H2
 
@@ -20,7 +20,7 @@ Github 마크다운 정리 및 git 사용법
 
 ##### This is a H5
 
-###### This is a H6
+###### This is a H6```
 
 # 2. 블록쿼티 문법
 
@@ -311,7 +311,3 @@ git remote prune <저장소 URL>
 ### 원격 저장소를 제거하고 관련된 브랜치도 제거하기
 
 git remote rm <저장소 URL>
-
-<!--
-마크다운으로 주석 처리 가능
--->
