@@ -4,7 +4,7 @@ Github 마크다운 정리 및 git 사용법
 
 ## Github 마크다운
 
-2.1. 헤더Headers
+## 2.1. 헤더Headers
 
 큰제목: 문서 제목
 ```
@@ -36,7 +36,7 @@ This is an H2
 ###### This is a H6
 ####### This is a 7.
 
-2.2. BlockQuote
+## 2.2. BlockQuote
 
 이메일에서 사용하는 ```>``` 블럭인용문자를 이용한다.
 ```
@@ -48,7 +48,7 @@ This is an H2
 
 >>> This is a third blockqute.
 
-2.3. 목록
+## 2.3. 목록
 ● 순서있는 목록(번호)
 순서있는 목록은 숫자와 점을 사용한다.
 ```
@@ -99,7 +99,7 @@ This is an H2
 
 
 
-2.4. 코드```<pre><code></code></pre>```
+## 2.4. 코드```<pre><code></code></pre>```
 
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
 
@@ -119,7 +119,7 @@ This is a code block.
 ```
 end code block.
 
-2.5. 수평선```<hr/>```
+## 2.5. 수평선```<hr/>```
 아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력할 때 페이지 나누기 용도로 많이 사용한다.
 ```
 * * *
@@ -143,7 +143,7 @@ end code block.
 
 ---------------------------------------
 
-2.6. 링크
+## 2.6. 링크
 참조링크
 ```
 [link keyword][id]
@@ -158,17 +158,17 @@ Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
 ```
 syntax: [Title](link)
 ```
-syntax: [Title](link)
+syntax: [www.naver.com](link)
 
 자동연결
 ```
 <http://example.com/>
 <address@example.com>
 ```
-<http://example.com/>
-<address@example.com>
+<http://naver.com/>
+<silvert95@gmail.com>
 
-2.7. 강조
+## 2.7. 강조
 ```
 *single asterisks*
 _single underscores_
@@ -179,7 +179,7 @@ __double underscores__
 ```
 
 
-2.8. 이미지
+## 2.8. 이미지
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
