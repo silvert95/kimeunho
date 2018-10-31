@@ -152,7 +152,9 @@ end code block.
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 ```
-Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
 
 인라인 링크
 ```
