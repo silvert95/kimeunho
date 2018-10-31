@@ -99,7 +99,7 @@ This is an H2
 
 
 
-2.4. 코드<pre><code></code></pre>
+2.4. 코드```<pre><code></code></pre>```
 
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
 
@@ -110,11 +110,13 @@ This is a normal paragraph:
     This is a code block.
 end code block.
 ```
-``` This is a normal paragraph: This is a code block. end code block. ```
+
+``` '''This is a normal paragraph: This is a code block. end code block.''' ```
+
 실제로 적용해보면, This is a normal paragraph:
-'''
+```
 This is a code block.
-'''
+```
 end code block.
 
 2.5. 수평선'''<hr/>'''
