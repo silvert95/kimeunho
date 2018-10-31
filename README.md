@@ -158,14 +158,14 @@ Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
 ```
 syntax: [Title](link)
 ```
-syntax: [www.naver.com](link)
+syntax: [https://www.naver.com/](link)
 
 자동연결
 ```
 <http://example.com/>
 <address@example.com>
 ```
-<http://naver.com/>
+<https://www.google.com/>
 <silvert95@gmail.com>
 
 ## 2.7. 강조
@@ -177,6 +177,12 @@ __double underscores__
 ++underline++
 ~~cancelline~~
 ```
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
 
 
 ## 2.8. 이미지
