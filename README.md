@@ -321,6 +321,6 @@ git push <저장소 URL> <로컬 브랜치>
 
 git remote prune <저장소 URL>
 
-##원격 저장소를 제거하고 관련된 브랜치도 제거하기
+## 원격 저장소를 제거하고 관련된 브랜치도 제거하기
 
 git remote rm <저장소 URL>
