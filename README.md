@@ -178,10 +178,15 @@ __double underscores__
 ~~cancelline~~
 ```
 *single asterisks*
+
 _single underscores_
+
 **double asterisks**
+
 __double underscores__
+
 ++underline++
+
 ~~cancelline~~
 
 
@@ -189,9 +194,10 @@ __double underscores__
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
-
 ```
-석촌호수 러버덕 석촌호수 러버덕
+![Alt text](http://post.phinf.naver.net/MjAxNzA1MDRfNzkg/MDAxNDkzODc1MzI4MTA1.SeMv8PKRDv6DyCN7YI8CaTXNf-HsRHu1hQSId9bgZ84g.-h_UPI8KszFE8r_d2Sbu9j1mUjTFkByNp_s81TeauOog.JPEG/IJ0kjmNatss4OOXL2oS94njQyhqs.jpg)
+
+
 
 사이즈 조절 기능은 없기 때문에 <img width="" height=""></img>를 이용한다.
 
