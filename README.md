@@ -158,7 +158,7 @@ Link: [Google][googlelink] [googlelink]: https://google.com "Go google"
 ```
 syntax: [Title](link)
 ```
-syntax: [https://www.naver.com/](link)
+syntax: [Naver](https://www.naver.com/)
 
 자동연결
 ```
@@ -189,6 +189,7 @@ __double underscores__
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
+
 ```
 석촌호수 러버덕 석촌호수 러버덕
 
