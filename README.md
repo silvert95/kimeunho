@@ -115,11 +115,7 @@ end code block.
 
 실제로 적용해보면, 
 ```
-This is a normal paragraph:
-
-This is a code block.
-
-end code block.
+This is a normal paragraph: This is a code block. end code block.
 ```
 
 ## 5. 수평선```<hr/>```
